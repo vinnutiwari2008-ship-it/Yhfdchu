@@ -1,0 +1,40 @@
+[
+  {
+    "username": "KING",
+    "password_hash": "pbkdf2$210000$buUBw1Pb+hTY1DOk4rctLQ==$UkAOPUSsb8jZJ6YgecI/u2VjajkbXAWH3u4mfkd4ZGY=",
+    "role": "admin",
+    "access_type": "admin",
+    "created_at": 0,
+    "expires_at": 0,
+    "banned": false,
+    "auth_version": 1
+  },
+  {
+    "username": "Zesty",
+    "password_hash": "pbkdf2$210000$ITqx9lG3V72w8c5rb2jYtQ==$E5uM8YH3qWlZiqCaLDDoeXsgl9B5v4+yvC7heGr05T4=",
+    "role": "admin",
+    "access_type": "admin",
+    "created_at": 1790363969,
+    "expires_at": 0,
+    "banned": false,
+    "auth_version": 1
+  },
+  {
+    "username": "vinnu",
+    "password_hash": "pbkdf2$210000$fyXhyZLhvcuT+BV72YniJw==$nKJgTF5Y4tSMQl5FeLiCaSUlHen4NBvfqBHQqQ14SgU=",
+    "role": "user",
+    "access_type": "levelup",
+    "slots": 3,
+    "created_at": 1790364006,
+    "expires_at": 1790450406,
+    "banned": false,
+    "auth_version": 1,
+    "level_up_ids": [
+      {
+        "uid": "7068718614",
+        "password": "1A051CD2F7B1657EA7A32E7AABCEE5B095BF45D53BDC8E47CB91A909B38B1387",
+        "mode": "battle_royale"
+      }
+    ]
+  }
+]

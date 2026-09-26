@@ -1,0 +1,18 @@
+{
+  "devices": [
+    {
+      "username": "KING",
+      "ua_hash": "fc0255d8b892b7b3d3096af03871731b6ce1127e8c5f3e1f5dfaa9656800667c",
+      "last_ip": "127.0.0.1",
+      "last_seen": 1790363993,
+      "created_at": 1790363993
+    },
+    {
+      "username": "vinnu",
+      "ua_hash": "fc0255d8b892b7b3d3096af03871731b6ce1127e8c5f3e1f5dfaa9656800667c",
+      "last_ip": "127.0.0.1",
+      "last_seen": 1790364022,
+      "created_at": 1790364022
+    }
+  ]
+}

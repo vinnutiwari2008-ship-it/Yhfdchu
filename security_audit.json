@@ -1,0 +1,18 @@
+{
+  "events": [
+    {
+      "time": 1790363993,
+      "event": "login_success",
+      "username": "KING",
+      "ip": "127.0.0.1",
+      "detail": "admin"
+    },
+    {
+      "time": 1790364021,
+      "event": "login_success",
+      "username": "vinnu",
+      "ip": "127.0.0.1",
+      "detail": "user"
+    }
+  ]
+}

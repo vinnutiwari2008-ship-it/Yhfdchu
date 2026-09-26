@@ -1,0 +1,35 @@
+{
+  "currency": "$",
+  "plans": [
+    {
+      "id": "starting",
+      "name": "STARTING",
+      "price": "1",
+      "duration": "24 Hours",
+      "slots": 3,
+      "link": "/signup",
+      "badge": ""
+    },
+    {
+      "id": "basic",
+      "name": "BASIC",
+      "price": "2",
+      "duration": "48 Hours",
+      "slots": 3,
+      "link": "/signup",
+      "badge": "MOST POPULAR"
+    },
+    {
+      "id": "premium",
+      "name": "PREMIUM",
+      "price": "2.50",
+      "duration": "72 Hours",
+      "slots": 4,
+      "link": "/signup",
+      "badge": ""
+    }
+  ],
+  "support_link": "https://t.me/zestyji",
+  "notice_button_link": "https://t.me/zestyji",
+  "notice_button_text": "Chat Now"
+}
